@@ -1,0 +1,47 @@
+int main()
+	token= next token()
+	S()
+return
+
+S()
+	if token == 'ba'
+		token= nextToken()
+		Y()
+	else if =='bc'
+		token = nextToken()
+		Sl()
+	else: Sl()
+		T()
+
+Y()
+	
+	if token=='d'
+		token = nextToken()
+		Y()
+	else if == 'bc'
+		token = nextToken()
+		S()
+	else if == 'ba'
+		token = nextToken()
+		T()
+	else: erro
+
+S'()
+	if token == 'ab'
+		token = nextToken()
+		s'()
+	else: return
+
+T()
+	if token =='a'
+		token = nextToken()
+		Y()
+	else: T'()
+T'()
+	if token == 'a'
+		token = nextToken()
+		T'()
+	else if == 'd'
+		token = nextToken()
+		T'()
+	else: return
