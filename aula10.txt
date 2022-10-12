@@ -1,0 +1,32 @@
+X - Xb Alfa1 | c Beta1 |d B2
+X - B1X'| B2X'
+X' - A1X'|e
+
+X - cX'|dX'
+X' - bX'|e
+
+M - Mc A1|Mac A2|bd B1|e B2
+
+M - B1M' | B2M'
+M' - A1M' | A2M' |e
+
+M - bdM' | M'
+M' - cM'|acM'|e
+
+
+S - Aa | b 
+A - Ac | Sd | e
+A - Ac A1| Aad A2| bd B1| eB2
+A - B1A' | B2A'
+A' - A1A' | A2A'
+
+A - bdA' | A'
+A' - cA' | adA'|e
+
+A - aAB | aBc | aAc
+A - aX
+X - AB | Bc | Ac
+X - Bc | AY
+Y - B | c
+
+
